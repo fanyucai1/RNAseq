@@ -52,7 +52,7 @@ options:
 -o          output directory
 
 Email:fanyucai1\@126.com
-2018.8  
+2018.8
     };
     exit;
 }
